@@ -9,6 +9,8 @@
             <li><a href="event.php?y=2011&e=wdds" target="_blank">WDDS 2011</a></li>
             <li><a href="event.php?y=2013&e=wdds" target="_blank">WDDS 2013</a></li>
             <li><a href="event.php?y=2014&e=wdes" target="_blank">WDES 2014</a></li>
+            <li><a href="event.php?y=2015&e=wdes" target="_blank">WDES 2015</a></li>
+            <li><a href="event.php?y=2016&e=wdes" target="_blank">WDES 2016</a></li>
         </ul>
     </body>
 

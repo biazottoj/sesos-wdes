@@ -138,7 +138,7 @@
                     <div class="col-lg-8">
                         <div class="footer-content text-center">
                             <a href="index.html">
-                                <img src="assets/images/logo-2.png" alt="Logo">
+                                <img src="assets/images/logo.png" alt="Logo">
                             </a>
                             <p class="mt-">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exe- rcitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                             <ul>
