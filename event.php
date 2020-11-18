@@ -5,20 +5,16 @@
     $year = $_GET['y'];
     $event = $_GET['e'];
     $acronym = "";
-    if ($event == "wdds")
-        switch ($year) {
-            case '2007':
-                $acronym = "WDDS 2007";
-                break;
-            
-            case '2008':
-                $acronym = "WDDS 2008";
-                break;
 
-            default:
-                $acronym = "WDDS DEfault";
-                break;
-        }
+
+    if ($event == "wdds") {
+        $acronym = "WDDS ".$year;
+    } elseif (condition) {
+        $acronym = "WDES ".$year;
+    } else {
+        header('Location:index.php' );
+    }
+
 ?>
 
 <head>
