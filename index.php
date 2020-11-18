@@ -7,6 +7,8 @@
             <li><a href="event.php?y=2009&e=wdds" target="_blank">WDDS 2009</a></li>
             <li><a href="event.php?y=2010&e=wdds" target="_blank">WDDS 2010</a></li>
             <li><a href="event.php?y=2011&e=wdds" target="_blank">WDDS 2011</a></li>
+            <li><a href="event.php?y=2013&e=wdds" target="_blank">WDDS 2013</a></li>
+            <li><a href="event.php?y=2014&e=wdes" target="_blank">WDES 2014</a></li>
         </ul>
     </body>
 
